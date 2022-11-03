@@ -1,2 +1,39 @@
-# DIO-Reposit-rio-no-GitHub
-Primeiro repositório no GitHub 
+# dio-desafio-github-primeiro
+
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+DESAFIO DE PROJETO
+
+Introdução e apresentação do Projeto
+
+
+Git e GitHub: Relembrando algumas coisinhas
+
+Criando Reposítório Novo
+
+https://github.com/new
+
+
+git clone repositorio
+
+git add .
+
+git commit -m "commit"
+
+git push -u origin main
+
+
+Desafio de projeto
+
+Criar repositório no GitHub e organizá-lo.
+
+
+Descrição do Desafio
+
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
+
+Entendendo o Desafio
+
+
+
+
